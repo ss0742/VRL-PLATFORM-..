@@ -21,15 +21,5 @@ Installation
 Clone the repository:
 git clone https://github.com/your-username/VRLPlatformSystem.git
 cd VRLPlatformSystem
-## Mentor
 
-- Dr.R.Kayalvizhi
-- kayalvir@srmist.edu.in
-
-- ## Team Members
-
-- V Poorna Chandra - [@poornachandra](https://github.com/Hackerpoorna) - Team Leader
-- B Khamlesh Gupta - [@khamlesh](https://github.com/Khamlesh) - Team Member
-- A Mohan Chandra  - [@mohanchandra](https://github.com/Ma8886) - Team Member
-- D Hari Charan  - [@haricharan](https://github.com/Hari87690) - Team Member
   
